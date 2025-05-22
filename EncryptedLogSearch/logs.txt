@@ -1,0 +1,103 @@
+2025-05-21 10:32|User login failed
+2025-05-21 10:35|Suspicious file download detected
+2025-05-21 10:40|Admin login successful
+2025-05-21 16:17|Anomaly detected in process activity
+2025-05-21 17:01|Security scan completed
+2025-05-21 10:03|Suspicious file download detected
+2025-05-21 12:29|Security scan completed
+2025-05-21 12:19|System rebooted
+2025-05-21 19:55|User login failed
+2025-05-21 18:26|Security scan completed
+2025-05-21 19:34|Privilege escalation detected
+2025-05-21 16:07|Configuration file modified
+2025-05-21 17:01|Unusual network traffic observed
+2025-05-21 17:47|Configuration file modified
+2025-05-21 14:53|Unauthorized access attempt
+2025-05-21 13:09|Port scanning attempt blocked
+2025-05-21 12:57|Account locked due to failed logins
+2025-05-21 15:20|New user created
+2025-05-21 11:25|Port scanning attempt blocked
+2025-05-21 19:23|Malware signature updated
+2025-05-21 13:09|Admin login successful
+2025-05-21 18:42|Port scanning attempt blocked
+2025-05-21 15:45|Unusual network traffic observed
+2025-05-21 13:15|Account locked due to failed logins
+2025-05-21 13:17|Malware signature updated
+2025-05-21 12:24|Suspicious file download detected
+2025-05-21 19:33|Configuration file modified
+2025-05-21 16:07|USB device connected
+2025-05-21 16:03|Suspicious file download detected
+2025-05-21 15:52|Multiple failed login attempts
+2025-05-21 17:53|New user created
+2025-05-21 17:08|USB device connected
+2025-05-21 11:24|Configuration file modified
+2025-05-21 18:54|Firewall rule changed
+2025-05-21 10:46|User login failed
+2025-05-21 18:49|Admin login successful
+2025-05-21 12:00|System rebooted
+2025-05-21 18:44|Multiple failed login attempts
+2025-05-21 19:13|User login failed
+2025-05-21 19:34|Configuration file modified
+2025-05-21 15:42|Configuration file modified
+2025-05-21 17:42|Privilege escalation detected
+2025-05-21 14:22|RDP session started
+2025-05-21 13:23|Multiple failed login attempts
+2025-05-21 11:07|Firewall rule changed
+2025-05-21 16:16|Multiple failed login attempts
+2025-05-21 18:24|Firewall rule changed
+2025-05-21 11:09|New user created
+2025-05-21 14:32|Privilege escalation detected
+2025-05-21 12:59|Unauthorized access attempt
+2025-05-21 10:49|Suspicious file download detected
+2025-05-21 16:28|Security scan completed
+2025-05-21 11:05|Admin login successful
+2025-05-21 17:26|Anomaly detected in process activity
+2025-05-21 19:44|Suspicious file download detected
+2025-05-21 12:42|Malware signature updated
+2025-05-21 18:06|Suspicious file download detected
+2025-05-21 17:11|VPN connection established
+2025-05-21 12:51|Unauthorized access attempt
+2025-05-21 10:43|User login failed
+2025-05-21 14:02|Unauthorized access attempt
+2025-05-21 19:10|Malware signature updated
+2025-05-21 16:57|User login failed
+2025-05-21 16:53|Suspicious file download detected
+2025-05-21 13:49|Malware signature updated
+2025-05-21 19:13|USB device connected
+2025-05-21 16:29|Port scanning attempt blocked
+2025-05-21 10:34|Privilege escalation detected
+2025-05-21 10:53|Suspicious file download detected
+2025-05-21 11:51|Backup completed successfully
+2025-05-21 11:42|Security scan completed
+2025-05-21 19:18|Unauthorized access attempt
+2025-05-21 18:28|Anomaly detected in process activity
+2025-05-21 18:16|USB device connected
+2025-05-21 13:14|Account locked due to failed logins
+2025-05-21 17:36|Anomaly detected in process activity
+2025-05-21 17:10|Admin login successful
+2025-05-21 16:50|Suspicious file download detected
+2025-05-21 17:36|User login failed
+2025-05-21 10:04|Unusual network traffic observed
+2025-05-21 12:46|Admin login successful
+2025-05-21 19:23|Multiple failed login attempts
+2025-05-21 11:49|Firewall rule changed
+2025-05-21 11:13|Firewall rule changed
+2025-05-21 10:34|Firewall rule changed
+2025-05-21 15:54|System rebooted
+2025-05-21 15:39|Anomaly detected in process activity
+2025-05-21 10:56|Multiple failed login attempts
+2025-05-21 15:35|Malware signature updated
+2025-05-21 13:02|Port scanning attempt blocked
+2025-05-21 15:24|System rebooted
+2025-05-21 19:31|Firewall rule changed
+2025-05-21 11:18|VPN connection established
+2025-05-21 12:47|Admin login successful
+2025-05-21 16:04|Firewall rule changed
+2025-05-21 14:08|USB device connected
+2025-05-21 15:32|Port scanning attempt blocked
+2025-05-21 12:06|Configuration file modified
+2025-05-21 12:13|Configuration file modified
+2025-05-21 10:43|Unusual network traffic observed
+2025-05-21 18:03|VPN connection established
+2025-05-21 17:50|RDP session started
+2025-05-21 12:09|Unauthorized access attempt
